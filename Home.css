@@ -191,51 +191,51 @@ body {
 }
 
 #card-1 {
-  background-image: url("/images/necklace/1.jpg");
+  background-image: url("images/necklace/1.jpg");
 }
 
 #card-2 {
-  background-image: url("/images/necklace/4.jpg");
+  background-image: url("images/necklace/4.jpg");
 }
 
 #card-3 {
-  background-image: url("/images/necklace/6.jpg");
+  background-image: url("images/necklace/6.jpg");
 }
 
 #card-4 {
-  background-image: url("/images/breclet/23.jpg");
+  background-image: url("images/breclet/23.jpg");
 }
 
 #card-5 {
-  background-image: url("/images/breclet/25.jpg");
+  background-image: url("images/breclet/25.jpg");
 }
 
 #card-6 {
-  background-image: url("/images/breclet/26.jpg");
+  background-image: url("images/breclet/26.jpg");
 }
 
 #card-7 {
-  background-image: url("/images/rings/44.jpg");
+  background-image: url("images/rings/44.jpg");
 }
 
 #card-8 {
-  background-image: url("/images/rings/41.jpg");
+  background-image: url("images/rings/41.jpg");
 }
 
 #card-9 {
-  background-image: url("/images/rings/46.jpg");
+  background-image: url("images/rings/46.jpg");
 }
 
 #card-10 {
-  background-image: url("/images/earrings/78.jpg");
+  background-image: url("images/earrings/78.jpg");
 }
 
 #card-11 {
-  background-image: url("/images/earrings/65.jpg");
+  background-image: url("images/earrings/65.jpg");
 }
 
 #card-12 {
-  background-image: url("/images/earrings/80.jpg");
+  background-image: url("images/earrings/80.jpg");
 }
 
 #card-1:hover,
